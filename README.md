@@ -3,4 +3,4 @@ Link: https://codeforces.com/contest/1493/problem/A
 ## Derivation of Formula
 ![](Ziteboard.png)
 ## Concrete Example
-![](Ziteboard(1).png)
+
